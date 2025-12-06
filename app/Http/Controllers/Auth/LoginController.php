@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
 /**
- * 登录控制器
+ * LoginController
  * 处理用户登录和退出功能
  */
 class LoginController extends Controller
